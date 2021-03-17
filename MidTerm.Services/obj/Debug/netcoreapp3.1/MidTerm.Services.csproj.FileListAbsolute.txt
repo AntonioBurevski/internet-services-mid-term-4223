@@ -1,0 +1,14 @@
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\bin\Debug\netcoreapp3.1\MidTerm.Services.deps.json
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\bin\Debug\netcoreapp3.1\MidTerm.Services.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\obj\Debug\netcoreapp3.1\MidTerm.Services.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\obj\Debug\netcoreapp3.1\MidTerm.Services.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\obj\Debug\netcoreapp3.1\MidTerm.Services.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\bin\Debug\netcoreapp3.1\MidTerm.Services.pdb
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\bin\Debug\netcoreapp3.1\MidTerm.Data.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\bin\Debug\netcoreapp3.1\MidTerm.Models.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\bin\Debug\netcoreapp3.1\MidTerm.Models.pdb
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\bin\Debug\netcoreapp3.1\MidTerm.Data.pdb
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\obj\Debug\netcoreapp3.1\MidTerm.Services.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\obj\Debug\netcoreapp3.1\MidTerm.Services.csproj.CopyComplete
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\obj\Debug\netcoreapp3.1\MidTerm.Services.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Services\obj\Debug\netcoreapp3.1\MidTerm.Services.pdb

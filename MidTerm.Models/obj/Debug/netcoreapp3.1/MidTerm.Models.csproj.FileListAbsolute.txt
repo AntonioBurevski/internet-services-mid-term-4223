@@ -1,0 +1,12 @@
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\bin\Debug\netcoreapp3.1\MidTerm.Data.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\obj\Debug\netcoreapp3.1\MidTerm.Models.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\obj\Debug\netcoreapp3.1\MidTerm.Models.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\obj\Debug\netcoreapp3.1\MidTerm.Models.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\bin\Debug\netcoreapp3.1\MidTerm.Models.deps.json
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\bin\Debug\netcoreapp3.1\MidTerm.Models.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\bin\Debug\netcoreapp3.1\MidTerm.Models.pdb
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\bin\Debug\netcoreapp3.1\MidTerm.Data.pdb
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\obj\Debug\netcoreapp3.1\MidTerm.Models.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\obj\Debug\netcoreapp3.1\MidTerm.Models.csproj.CopyComplete
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\obj\Debug\netcoreapp3.1\MidTerm.Models.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm.Models\obj\Debug\netcoreapp3.1\MidTerm.Models.pdb

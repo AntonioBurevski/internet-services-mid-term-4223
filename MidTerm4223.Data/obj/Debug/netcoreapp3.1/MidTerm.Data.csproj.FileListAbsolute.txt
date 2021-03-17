@@ -1,0 +1,12 @@
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\bin\Debug\netcoreapp3.1\MidTerm.Data.deps.json
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\bin\Debug\netcoreapp3.1\MidTerm.Data.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\obj\Debug\netcoreapp3.1\MidTerm.Data.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\obj\Debug\netcoreapp3.1\MidTerm.Data.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\obj\Debug\netcoreapp3.1\MidTerm.Data.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\bin\Debug\netcoreapp3.1\MidTerm.Data.runtimeconfig.json
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\bin\Debug\netcoreapp3.1\MidTerm.Data.runtimeconfig.dev.json
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\obj\Debug\netcoreapp3.1\MidTerm.Data.genruntimeconfig.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\bin\Debug\netcoreapp3.1\MidTerm.Data.pdb
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\obj\Debug\netcoreapp3.1\MidTerm.Data.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\obj\Debug\netcoreapp3.1\MidTerm.Data.dll
+C:\Users\Antonio\Desktop\MidTerm4223\MidTerm4223.Data\obj\Debug\netcoreapp3.1\MidTerm.Data.pdb
